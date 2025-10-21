@@ -15,4 +15,3 @@ include:
     artifact-name: corne_left_with_studio
   - board: nice_nano_v2
     shield: mocha_right
----
